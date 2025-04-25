@@ -5,3 +5,6 @@ sword and spear
 wall of shields
 
 sword and spear
+
+Hello and bye!
+Bye and Hello!
